@@ -43,3 +43,9 @@ images look like this ![text for screenreaderm](https://upload.wikimedia.org/wik
 code for multiple lines
 
 ```
+
+# footnote
+ ~~this is broken ~~
+
+ - [ ]learn markdown
+ - [x]learn markdown
