@@ -34,3 +34,12 @@ images look like this ![text for screenreaderm](https://upload.wikimedia.org/wik
 | Name | Type |
 |------|------|
 |Andrew|Fun|
+
+## Code example
+
+`code example uses back tick`
+
+``` 
+code for multiple lines
+
+```
