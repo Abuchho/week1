@@ -13,3 +13,12 @@
  > worker bees can leave
 
  quotes 
+
+ *** List
+ 1. cat
+ 2. dog
+ 3. fish
+
+*** unordered list
+-have fun
+-markdown
