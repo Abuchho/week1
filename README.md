@@ -47,5 +47,5 @@ code for multiple lines
 # footnote
  ~~this is broken ~~
 
- - [ ]learn markdown
- - [x]learn markdown
+ - [ ] learn markdown
+ - [x] learn markdown
