@@ -13,3 +13,7 @@
 ---
 
 > The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it, as long as you really believe 100 percent -*Arnold Schwarzenegger*
+
+
+### Workout Resources
+[proper squat](https://www.self.com/story/5-ways-youre-probably-doing-squats-wrong)
