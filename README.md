@@ -1,2 +1,3 @@
-# week1
-Week 1 HW assignment for Andrew Buchholz
+# week1 
+
+ Andrew Buchholz update
