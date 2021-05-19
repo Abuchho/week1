@@ -16,6 +16,6 @@
 
 
 ### Workout Resources
-[proper squat](https://www.self.com/story/5-ways-youre-probably-doing-squats-wrong)
-[running technique](https://www.runnersworld.com/beginner/a20811257/proper-running-form-0/)
-[breath stroke](https://www.enjoy-swimming.com/breast-stroke.html)
+[proper squat](https://www.self.com/story/5-ways-youre-probably-doing-squats-wrong)  
+[running technique](https://www.runnersworld.com/beginner/a20811257/proper-running-form-0/)  
+[breath stroke](https://www.enjoy-swimming.com/breast-stroke.html)  
