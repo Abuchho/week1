@@ -12,3 +12,7 @@
 + Reading  
 + Learning new skills  
 
+
+| ### Things I Recommend|
+|:---------------------:|
+|Books|Movies|Games|
