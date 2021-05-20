@@ -7,8 +7,8 @@
 
 
  ### Hobbies
-+Running
-+Golf
-+Reading
-+Learning new skills
++ Running  
++ Golf  
++ Reading  
++ Learning new skills  
 
