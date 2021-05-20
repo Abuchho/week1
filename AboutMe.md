@@ -22,5 +22,6 @@
  > 4. Data Visualization
 
 ---
-- Currently growing some of these bad boys, let me know if you like **spicy** food, I will have plenty to share!
+- Currently growing some of these bad boys, let me know if you like **spicy** food, I will have plenty to share!  
+  
 ![cayenne pepper](https://www.johnnyseeds.com/dw/image/v2/BBBW_PRD/on/demandware.static/-/Sites-jss-master/default/dwe0f797bb/images/products/vegetables/03025g_01_redflamehorz.jpg?sw=387&cx=302&cy=0&cw=1196&ch=1196) 
