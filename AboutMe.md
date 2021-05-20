@@ -1,4 +1,8 @@
-## About Me: *Andrew Buchholz*
+# About Me: *Andrew Buchholz*
+---
+
+#### Brief Bio  
+ 
 
 
 
