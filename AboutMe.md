@@ -11,8 +11,12 @@
 + Golf  
 + Reading  
 + Learning new skills  
++ Board Games   
 
 
-| ### Things I Recommend|
-|:---------------------:|
-|Books|Movies|Games|
+### `Software Development`
+ > Since I am still learning so many new things about development, I am keeping an open mind about what career path I want to pursue. Web development for a marketing agency seems like an exciting environment to be in as a first job, but with continued learning I would like to open myself up to other opportunities outside of purely web dev. Some topics that interest me are:
+ > 1. Progressive Web Apps  
+ > 2. Automation
+ > 3. E-commerce 
+ > 4. Data Visualization
