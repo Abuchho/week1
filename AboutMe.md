@@ -20,3 +20,7 @@
  > 2. Automation
  > 3. E-commerce 
  > 4. Data Visualization
+
+---
+
+![cayenne pepper](https://www.johnnyseeds.com/dw/image/v2/BBBW_PRD/on/demandware.static/-/Sites-jss-master/default/dwe0f797bb/images/products/vegetables/03025g_01_redflamehorz.jpg?sw=387&cx=302&cy=0&cw=1196&ch=1196) 
